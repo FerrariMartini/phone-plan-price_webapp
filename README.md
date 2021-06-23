@@ -1,6 +1,6 @@
 #Getting Started
 
-Passo 01: Antes de iniciar o web-app-vxtel deve-se iniciar o server-side api. Ver instrucoes no README dentro do projeto api
+Passo 01: Antes de iniciar o phone-plan-price_webapp deve-se iniciar o server-side api (phone-plan-price-api). Ver instruções no README dentro do projeto api
 
 Passo 02: instalar dependencia com o comando `yarn`.
 
